@@ -37,6 +37,16 @@ All examples and datasets will be drawn from the tourism industry. Topics includ
 
 ---
 
+### **Day 3: Laboratory Day**
+
+| Time                | Topic                                                                                      |
+|---------------------|--------------------------------------------------------------------------------------------|
+| 09:00 am – 12:00 pm |**Linear Regression**                  |
+| 12:00 pm – 01:00 pm | Lunch                                                                                      |
+| 01:00 pm – 04:00 pm | **Hierarchical Models**     |
+
+---
+
 ## 🛠️ Tools Used
 
 - `Python 3.11+`
